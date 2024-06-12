@@ -2,9 +2,8 @@
 
 <details open>
 <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-<table border="0">
-<tr>
-<td valign="center" width="60%">
+
+<div valign="center" width="60%">
 
 - 🌍  I'm based in Sylhet, Bangladesh
 - 🖥️  See my portfolio at [example.com](http://example.com)
@@ -13,15 +12,7 @@
 - 🤝  I'm open to collaborating on Django REST Framework API
 - 🚵  Ability to work in a team environment.
 - 🏎️  Ability to learn new technologies and adapt to changing project requirements.
-
-</td><td valign="centre" width="40%">
-
-<div align="center">
-<img src="imsay3m-banner.png" align="center" style="width: 95%" />
-</div>  
-
-
-</td></tr></table>  
+ 
 
 </details>
 
