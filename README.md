@@ -6,9 +6,9 @@
 <div valign="center" width="60%">
 
 - 🌍  I'm based in Sylhet, Bangladesh
-- 🖥️  See my portfolio at [example.com](http://example.com)
+- 🖥️  See my portfolio at [imsay3m.github.io](http://imsay3m.github.io)
 - ✉️  You can contact me at [ahmedsayem730@gmail.com](mailto:ahmedsayem730@gmail.com)
-- 🚀  I'm currently working on [Cine Streaming And Downloading Service](http://cinecraz-client-vercel.app)
+- 🚀  I'm currently working on [Cine Streaming And Downloading Service](http://cinecraze-client-vercel.app)
 - 🤝  I'm open to collaborating on Django REST Framework API
 - 🚵  Ability to work in a team environment.
 - 🏎️  Ability to learn new technologies and adapt to changing project requirements.
@@ -75,7 +75,8 @@ src="https://img.shields.io/github/followers/imsay3m?logo=github&style=for-the-b
 </details>
 <br/>  
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<details open>
+<summary><b><h2 align="center">⚡ Stats ⚡</h2></b></summary>
 <br>
 <p align=center>
   <div align=center>
@@ -97,7 +98,7 @@ src="https://img.shields.io/github/followers/imsay3m?logo=github&style=for-the-b
 </p>
 
 <br/>
-
+</details>
 <br />
 
 ----
