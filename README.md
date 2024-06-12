@@ -12,7 +12,6 @@
 - 🤝  I'm open to collaborating on Django REST Framework API
 - 🚵  Ability to work in a team environment.
 - 🏎️  Ability to learn new technologies and adapt to changing project requirements.
- 
 
 </details>
 
@@ -48,8 +47,6 @@
 src="https://img.shields.io/github/followers/imsay3m?logo=github&style=for-the-badge&color=3382ed&labelColor=#555555" /></a>
 
 <br/>  
-
-
 
 <details open>
 <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
@@ -90,9 +87,12 @@ src="https://img.shields.io/github/followers/imsay3m?logo=github&style=for-the-b
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsay3m&hide=Jupyter Notebook&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-  </div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsay3m&&hide=Jupyter Notebook&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" align="center" />
+</div>  
+
+<br/>
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imsay3m&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
