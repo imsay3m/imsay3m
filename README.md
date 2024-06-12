@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&duration=4000&pause=300&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=Hey+%F0%9F%91%8B%2C+Fancy+To+See+You+Here;I+am+Sheikh+Eismile+Ahmed+Sayem)](https://git.io/typing-svg)<br>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&duration=4000&pause=1000&color=57BCDA&vCenter=true&random=false&width=390&height=70&lines=Hey%F0%9F%91%8B%2C+Fellow+%3C+Developers%2F+%3E!+;Fancy+To+See+You+Here;I+am+Sheikh+Eismile+Ahmed+Sayem;I+am+a+Computer+Science+Engineer+)<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imsay3m&style=flat-square&label=Views)
 ![Repository Visits](https://badges.pufler.dev/visits/imsay3m/imsay3m?color=black&logo=github&style=flat-square)
