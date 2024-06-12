@@ -2,17 +2,19 @@
 
 <details open>
 <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-<table><tr><td valign="top" width="60%">
+<table border="0">
+<tr>
+<td valign="center" width="60%">
 
 - 🌍  I'm based in Sylhet, Bangladesh
 - 🖥️  See my portfolio at [example.com](http://example.com)
 - ✉️  You can contact me at [ahmedsayem730@gmail.com](mailto:ahmedsayem730@gmail.com)
 - 🚀  I'm currently working on [Cine Streaming And Downloading Service](http://cinecraz-client-vercel.app)
 - 🤝  I'm open to collaborating on Django REST Framework API
-- 🚵  Excellent problem-solving skills and ability to work in a team environment.
-- 🏎️  Demonstrated ability to learn new technologies and adapt to changing project requirements.
+- 🚵  Ability to work in a team environment.
+- 🏎️  Ability to learn new technologies and adapt to changing project requirements.
 
-</td><td valign="top" width="40%">
+</td><td valign="centre" width="40%">
 
 <div align="center">
 <img src="imsay3m-banner.png" align="center" style="width: 95%" />
