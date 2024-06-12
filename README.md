@@ -88,9 +88,7 @@ src="https://img.shields.io/github/followers/imsay3m?logo=github&style=for-the-b
   </div>
   <br><br><br><br><br><br><br><br><br>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsay3m&&hide=Jupyter Notebook&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" align="center" />
-</div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsay3m&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" align="center"/></div>  
 
 <br/>
   <br>
