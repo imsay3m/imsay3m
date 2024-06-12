@@ -1,104 +1,76 @@
-## Hey 👋, Glad To See You Here
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&duration=4000&pause=300&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=Hey+%F0%9F%91%8B%2C+Fancy+To+See+You+Here;I+am+Sheikh+Eismile+Ahmed+Sayem)](https://git.io/typing-svg)<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=imsay3m&style=flat-square&label=Views)
+![Repository Visits](https://badges.pufler.dev/visits/imsay3m/imsay3m?color=black&logo=github&style=flat-square)
 
 <details open>
-<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-
-<div valign="center" width="60%">
+  <summary><b>✨ About Me</b></summary><br>
 
 - 🌍  I'm based in Sylhet, Bangladesh
 - 🖥️  See my portfolio at [imsay3m.github.io](http://imsay3m.github.io)
 - ✉️  You can contact me at [ahmedsayem730@gmail.com](mailto:ahmedsayem730@gmail.com)
-- 🚀  I'm currently working on [Cine Streaming And Downloading Service](http://cinecraze-client-vercel.app)
-- 🤝  I'm open to collaborating on Django REST Framework API
+- 🚀  I'm currently working on [Cine Streaming And Downloading Service](http://cinecraze-client.vercel.app)
+- 🤝  I'm open to collaboration
 - 🚵  Ability to work in a team environment.
 - 🏎️  Ability to learn new technologies and adapt to changing project requirements.
 
-</details>
+</details><br>
 
-<br>
+<details>
+  <summary><b>🔗 Where to find me</b></summary><br>
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://github.com/imsay3m" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/imsay3m" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/imsay3m" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/imsay3m" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/imsay3m" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/imsay3m" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/imsay3m" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</p>
+[![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/imsay3m)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/imsay3m/)
+[![FaceBook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/imsay3m)
+[![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/imsay3m)
+[![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@imsay3m)
+[![DevTo](https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/imsay3m)
+[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Char_Al_)
+[![About.me Badge](https://img.shields.io/badge/About.me-333333.svg?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://about.me/imsay3m/)
 
-![Profile views counter](https://komarev.com/ghpvc/?username=imsay3m&&style=for-the-badge&color=3382ed&labelColor=#555555)
-<a href="https://www.github.com/imsay3m" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/imsay3m?logo=github&style=for-the-badge&color=3382ed&labelColor=#555555" /></a>
+</details><br/>  
 
-<br/>  
+<details>
+<summary><b>🛠️ Languages & Tools</b></summary><br/>
 
-<details open>
-<summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-<br/>
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="25" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-</div>  
-</details>
-<br/>  
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-000000.svg?style=for-the-badge&logo=BEM&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8.svg?style=for-the-badge&logo=DaisyUI&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
+![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E.svg?style=for-the-badge&logo=Railway&logoColor=white)
+![Koyeb](https://img.shields.io/badge/Koyeb-121212.svg?style=for-the-badge&logo=Koyeb&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7.svg?style=for-the-badge&logo=PythonAnywhere&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)
+![CloudFlare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020.svg?style=for-the-badge&logo=Cloudflare-Workers&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+</details><br/>  
 
-<details open>
-<summary><b><h2 align="center">⚡ Stats ⚡</h2></b></summary>
-<br>
-<p align=center>
-  <div align=center>
-    <div>
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=imsay3m&theme=react&border=61dafb&hide_border=true" alt="imsay3m" />
-    </div>
-    <div>
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=imsay3m&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </div>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
+<details>
+<summary><b>⚡ Stats</b></summary><br>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsay3m&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" align="center"/></div>  
+![GitHub Streak](https://streak-stats.demolab.com?user=imsay3m&theme=react&hide_border=true&card_width=350)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=imsay3m&show_icons=true&theme=react&hide_border=true&card_width=350)
+![Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=imsay3m&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=donut-vertical&hide_border=true&card_width=320)
+![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=imsay3m&theme=react-dark&bg_color=20232a&hide_border=true)
 
-<br/>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imsay3m&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<br/>
-</details>
-<br />
-
-----
+</details><br/>
