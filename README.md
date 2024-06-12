@@ -74,3 +74,8 @@
 ![Contribution](https://github-readme-activity-graph.vercel.app/graph?username=imsay3m&theme=react-dark&bg_color=20232a&hide_border=true)
 
 </details><br/>
+<details open>
+<summary><b>💎 Quotes</b></summary><br>
+
+![Developer Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</details>
